@@ -1,0 +1,9 @@
+C:\Users\Vitalik\Desktop\SolutionForAuth\Auth.Common\bin\Debug\netstandard2.0\Auth.Common.deps.json
+C:\Users\Vitalik\Desktop\SolutionForAuth\Auth.Common\bin\Debug\netstandard2.0\Auth.Common.dll
+C:\Users\Vitalik\Desktop\SolutionForAuth\Auth.Common\obj\Debug\netstandard2.0\Auth.Common.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\SolutionForAuth\Auth.Common\obj\Debug\netstandard2.0\Auth.Common.AssemblyInfoInputs.cache
+C:\Users\Vitalik\Desktop\SolutionForAuth\Auth.Common\obj\Debug\netstandard2.0\Auth.Common.AssemblyInfo.cs
+C:\Users\Vitalik\Desktop\SolutionForAuth\Auth.Common\bin\Debug\netstandard2.0\Auth.Common.pdb
+C:\Users\Vitalik\Desktop\SolutionForAuth\Auth.Common\obj\Debug\netstandard2.0\Auth.Common.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\SolutionForAuth\Auth.Common\obj\Debug\netstandard2.0\Auth.Common.dll
+C:\Users\Vitalik\Desktop\SolutionForAuth\Auth.Common\obj\Debug\netstandard2.0\Auth.Common.pdb
